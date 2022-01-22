@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn-core {
+    background: linear-gradient(#FF589B, #FF136F);
+}
+
+.section-title {
+    font-size: 35px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+
+.subscribe-section {
+    background: #FFF2F1;
+    height: 250px;
+}
+
+.input-area input {
+    font-size: 16px;
+    outline: 0;
+    padding: 7px 15px;
+    border-radius: 20px;
+    border: 2px solid #FF3484;
+}
+
+.input-area input[type = submit]{
+background-color: #FF136F;
+color: #fff;
+text-transform: uppercase;
+
+}
